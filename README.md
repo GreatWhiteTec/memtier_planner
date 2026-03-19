@@ -33,3 +33,8 @@ Execute the script
 3. Open your terminal and launch PowerShell by typing pwsh.
 4. Navigate to the directory containing the script and run:
     .\MAC_Friendly_MemTierSizer.ps1
+
+
+## 📝 License
+
+This project is licensed under a Custom Non-Commercial License. You are free to use and modify the tool for personal or internal use, but you may not sell, sub-license, or commercialize this software. See the [LICENSE](LICENSE) file for full details.
