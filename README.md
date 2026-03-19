@@ -37,4 +37,4 @@ Execute the script
 
 ## 📝 License
 
-This project is licensed under a Custom Non-Commercial License. You are free to use and modify the tool for personal or internal use, but you may not sell, sub-license, or commercialize this software. See the [LICENSE](LICENSE) file for full details.
+This project is licensed under a Custom Non-Commercial License. You are free to use the tool for personal or internal use, but you may not sell, sub-license, or commercialize this software. See the [LICENSE](LICENSE) file for full details.
